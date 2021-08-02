@@ -1,3 +1,4 @@
+# coding=UTF-8
 #字典用花括号表示
 #python中规定一个字典中key必须是唯一的，value可以相同
 
